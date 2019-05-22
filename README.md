@@ -2,6 +2,7 @@
 
 For R stuff..
 
-#collaborators
+# Collaborators
 
--Susi :P
+- Luke :)
+- Susi :P
