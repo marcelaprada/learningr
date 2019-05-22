@@ -5,3 +5,4 @@ For R stuff..
 # Collaborators
 
 - Luke :)
+- Susi :P
