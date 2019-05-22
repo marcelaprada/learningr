@@ -1,9 +1,10 @@
 
 <!-- TODO: Add more to the title of your project here -->
-# {{ ProjectName }}
-
+# Learning R in DIfE
+ 
 <!-- TODO: Give a brief description of what your project is about -->
-
+ R and Git are fun
+ 
 # Explanation of project folders and files
 
 This part of the README details how this research directory is structured, how files should
